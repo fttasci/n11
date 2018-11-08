@@ -22,6 +22,10 @@ public class myclass {
         element3.sendKeys(sifre);
         driver.findElement(By.id("loginButton")).click();
 
+
+
+        HACKED BY BATUHAN !; . exe
+
        /* driver.findElement(By.cssSelector("[class='myAccount'] [class='menuTitle ']")).click();
         driver.findElement(By.cssSelector("[class='hOpenMenuContent'] [class='logoutBtn']")).click(); */
 
